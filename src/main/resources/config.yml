@@ -1,0 +1,10 @@
+spin-on-join: true
+allow-manual-spin: true
+spin-cooldown-seconds: 120
+admin-token-obtainable: false
+ability-indicator: ACTION_BAR
+max-player-tokens: 64
+bounty-defaults:
+  - 500
+  - 1000
+  - 2500
